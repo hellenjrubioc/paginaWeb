@@ -6,3 +6,5 @@ La propuesta del proyecto es una página web de fotografía, específicamente la
 
 La plantilla utilizada como base será la siguiente:
 https://themewagon.com/themes/free-bootstrap-4-html5-photography-website-template-ace/
+
+La idea es ir reemplazando las imágenes de muestra por imágenes de los trabajos reales realizados
